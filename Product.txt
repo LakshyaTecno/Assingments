@@ -1,0 +1,10 @@
+PRODUCT PROPERTIES ARE:-
+
+1 ID
+1 Name 
+2 Category
+4 Description
+5 Price 
+6 Manufacturer
+7 Availablity(In Which area product is consumed)
+8 ManufacturerCity
